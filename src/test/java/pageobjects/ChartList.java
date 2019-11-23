@@ -41,7 +41,7 @@ public class ChartList extends Hooks {
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//td[@class='titleColumn']")));
         List<WebElement> title  = driver.findElements(By.xpath("//td[@class='titleColumn']"));//list all names and years of movies
         List<String> titleTexts = title.stream().map(WebElement::getText).collect(Collectors.toList());//converts list to String
-        List<WebElement> rating  = driver.findElements(By.xpath("//*[@class='ratingColumn imdbRating']"));//lists all ratings of movies
+        List<WebElement> rating  = driver.findElements(By.xpath("//*[@class='titleColumn']//parent::*//child::*[@class='ratingColumn imdbRating']"));//lists all ratings of movies
         List<String> ratingValue = rating.stream().map(WebElement::getText).collect(Collectors.toList());//converts list to String
         List<Float> ratingToFloat = convertStringToFloat(ratingValue, Float::parseFloat);//converts list to Float
         boolean checkSorting=isSorted(ratingToFloat);

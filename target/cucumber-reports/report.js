@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 4987908200,
+  "duration": 4780064500,
   "status": "passed"
 });
 formatter.scenario({
@@ -37,25 +37,25 @@ formatter.match({
   "location": "HomeSteps.navigation()"
 });
 formatter.result({
-  "duration": 20596569600,
+  "duration": 58436320900,
   "status": "passed"
 });
 formatter.match({
   "location": "ChartListSteps.listOfMovies()"
 });
 formatter.result({
-  "duration": 7852672300,
+  "duration": 6820340800,
   "status": "passed"
 });
 formatter.match({
   "location": "ChartListSteps.printListOfMovies()"
 });
 formatter.result({
-  "duration": 11143361100,
+  "duration": 11367386300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1164299300,
+  "duration": 1326806100,
   "status": "passed"
 });
 });

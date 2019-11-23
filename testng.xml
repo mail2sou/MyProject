@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/sougatab038/IdeaProjects/MyProject">
+    <test verbose="2" preserve-order="true" name=".\\MyProject">
         <parameter name="browser" value="Chrome" />
-        <parameter name="version" value="71.0" />
+        <parameter name="version" value="78.0" />
         <classes>
             <class name="runners.TestRunner" />
         </classes>

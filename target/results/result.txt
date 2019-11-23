@@ -78,14 +78,14 @@
 78. Das Boot (1981)	8.3
 79. 3 Idiots (2009)	8.3
 80. Star Wars: Episode VI - Return of the Jedi (1983)	8.3
-81. Taare Zameen Par (2007)	8.3
+81. Like Stars on Earth (2007)	8.3
 82. Toy Story (1995)	8.3
 83. Reservoir Dogs (1992)	8.3
 84. Amadeus (1984)	8.3
 85. Inglourious Basterds (2009)	8.3
 86. Good Will Hunting (1997)	8.3
-87. M (1931)	8.3
-88. Dangal (2016)	8.3
+87. Dangal (2016)	8.3
+88. M (1931)	8.3
 89. Requiem for a Dream (2000)	8.3
 90. 2001: A Space Odyssey (1968)	8.3
 91. Vertigo (1958)	8.3
@@ -152,8 +152,8 @@
 152. V for Vendetta (2005)	8.1
 153. Inside Out (2015)	8.1
 154. The Seventh Seal (1957)	8.1
-155. Warrior (2011)	8.1
-156. Drishyam (2013)	8.1
+155. Drishyam (2013)	8.1
+156. Warrior (2011)	8.1
 157. No Country for Old Men (2007)	8.1
 158. Trainspotting (1996)	8.1
 159. Room (2015)	8.1
@@ -162,31 +162,31 @@
 162. Shutter Island (2010)	8.1
 163. The Thing (1982)	8.1
 164. Gone with the Wind (1939)	8.1
-165. Andhadhun (2018)	8.1
-166. The Bridge on the River Kwai (1957)	8.1
-167. Blade Runner (1982)	8.1
-168. On the Waterfront (1954)	8.1
-169. The Third Man (1949)	8.1
-170. Jurassic Park (1993)	8.1
-171. Finding Nemo (2003)	8.1
-172. Wild Strawberries (1957)	8.1
-173. Fargo (1996)	8.1
-174. Gran Torino (2008)	8.1
-175. The Bandit (1996)	8.1
-176. Kill Bill: Vol. 1 (2003)	8.1
-177. The Deer Hunter (1978)	8.1
-178. Ford v Ferrari (2019)	8.1
+165. The Bridge on the River Kwai (1957)	8.1
+166. Andhadhun (2018)	8.1
+167. Ford v Ferrari (2019)	8.1
+168. Blade Runner (1982)	8.1
+169. On the Waterfront (1954)	8.1
+170. The Third Man (1949)	8.1
+171. Jurassic Park (1993)	8.1
+172. Finding Nemo (2003)	8.1
+173. Wild Strawberries (1957)	8.1
+174. Fargo (1996)	8.1
+175. Gran Torino (2008)	8.1
+176. The Bandit (1996)	8.1
+177. Kill Bill: Vol. 1 (2003)	8.1
+178. The Deer Hunter (1978)	8.1
 179. Stalker (1979)	8.1
 180. The Truman Show (1998)	8.1
-181. Tokyo Story (1953)	8.1
-182. The Big Lebowski (1998)	8.1
+181. The Big Lebowski (1998)	8.1
+182. Tokyo Story (1953)	8.1
 183. Wild Tales (2014)	8.1
 184. Mary and Max (2009)	8.1
 185. In the Name of the Father (1993)	8.1
 186. Gone Girl (2014)	8.1
 187. Hacksaw Ridge (2016)	8.1
-188. The General (1926)	8.1
-189. Sherlock Jr. (1924)	8.1
+188. Sherlock Jr. (1924)	8.1
+189. The General (1926)	8.1
 190. How to Train Your Dragon (2010)	8.1
 191. Mr. Smith Goes to Washington (1939)	8.1
 192. Memories of Murder (2003)	8.1
@@ -221,8 +221,8 @@
 221. Harry Potter and the Deathly Hallows: Part 2 (2011)	8.0
 222. Spotlight (2015)	8.0
 223. Dead Poets Society (1989)	8.0
-224. White Heat (1949)	8.0
-225. Ace in the Hole (1951)	8.0
+224. Ace in the Hole (1951)	8.0
+225. White Heat (1949)	8.0
 226. Rebecca (1940)	8.0
 227. Rocky (1976)	8.0
 228. Monsters, Inc. (2001)	8.0
