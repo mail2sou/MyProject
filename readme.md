@@ -8,3 +8,4 @@ IDE used: IntelliJ IDEA Community Edition 2019.2
 
 **Run**
 Right-click on "TestRunner" class in the "runners" package and run "TestRunner"
+
